@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.com/chapman-phys220-2018f/CHANGEME.svg?branch=master)](https://travis-ci.com/chapman-phys220-2018f/CHANGEME)
+[![Build Status](https://travis-ci.org/chapman-phys220-2018f/cw08-big-team.svg?branch=master)](https://travis-ci.org/chapman-phys220-2018f/cw08-big-team)
 
 # PHYS220/MATH220/CPSC220 CW 8
 
