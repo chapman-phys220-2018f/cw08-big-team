@@ -50,7 +50,7 @@ def s(a, n, T = 2*math.pi):
     value = (4/math.pi)*k.sum()
     return value
 
-def f(t):
+def f(t,T):
     '''
     Implementation of f(t) function given in readme
     
@@ -61,9 +61,9 @@ def f(t):
     '''
     if t == 0:
         return 0
-    elif t < math.pi and t > 0.0:
+    elif t < T/2 and t > 0.0:
         return 1
-    elif t > -1*math.pi and t < 0.0:
+    elif t > -1*T/2 and t < 0.0:
         return -1
     else:
         return False
